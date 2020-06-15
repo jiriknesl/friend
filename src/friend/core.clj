@@ -1,4 +1,5 @@
 (ns friend.core
+  (:use friend.modules.timer)
   )
 
 
